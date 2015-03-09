@@ -8,7 +8,7 @@
 ;;;
 ;;; Move into a room with move(room name)
 ;;;
-;;; Shoot at the wumpus using shoot - provide a string
+;;; Shoot at the wumpus using shoot - provide a list
 ;;; with a possible 5 rooms to shoot at (must connect)
 ;;;
 ;;; Avoid bats (which move you to random room,  pits
